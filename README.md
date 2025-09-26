@@ -19,11 +19,12 @@ Users can log and categorize expenses, view all entries, and see real-time summa
 ```bash
 git clone https://github.com/jamietsai32/expense-tracker.git
 cd expense-tracker
-
+```
 ### 2. Install dependencies
 ```bash
 pip install streamlit pandas
-
+```
 ### 3. Run the app
 ```bash
 streamlit run app.py
+```
